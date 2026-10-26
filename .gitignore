@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+netflix_titles.csv
+owid-co2-data.csv
